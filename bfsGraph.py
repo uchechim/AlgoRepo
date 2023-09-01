@@ -4,6 +4,7 @@ from collections import deque as queue
 # Direction vectors
 dRow = [ -1, 0, 1, 0]
 dCol = [ 0, 1, 0, -1]
+d = 'test'
  
 # Function to check if a cell
 # is be visited or not
